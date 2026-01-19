@@ -38,7 +38,7 @@ El dataset `PFDA_People_analytics.csv` contiene 35 variables, incluyendo:
 
 ## 👥 Autores y Créditos (Grupo 4)
 Este proyecto fue desarrollado como parte del **Data Foundations Program**.
-* **José Morales** (Análisis de datos y Estrategia)
+* José Morales
 * Dario Escobar
 * Raúl Murillo
 * Hermes Quimí
