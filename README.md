@@ -44,5 +44,3 @@ Este proyecto fue desarrollado como parte del **Data Foundations Program**.
 * Hermes Quimí
 * Carla Reyes
 
----
-*Si te interesa ver el código detallado, revisa la carpeta `/notebooks`.*
